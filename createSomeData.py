@@ -3,7 +3,6 @@
 from asyncio.windows_events import NULL
 import random
 import string
-from venv import create
 
 class CreateData(object):
 # 随机生成一万条数据
