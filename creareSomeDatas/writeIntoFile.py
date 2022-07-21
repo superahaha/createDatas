@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 
 from openpyxl import Workbook
-from createData import CreateData
+from createSomeData import CreateData
 
 class ExcelData(object):
     def __init__(self):
